@@ -22,6 +22,7 @@ interface user <T> {
     email: T
     address: string
 }
+
 interface location {
     street: string
     suite: string
