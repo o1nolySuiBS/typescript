@@ -15,6 +15,7 @@ console.log(greeting)
 //             "lng": "-47.0653"
 //     }
 // }
+
 interface user <T> {
     id: number
     name: string
