@@ -30,6 +30,7 @@ interface location {
     zipcode?: number
     geo: {}
 }
+
 const sergiy: user <string> & location = {
     id: 3,
     name: "Clementine Bauch",
