@@ -155,13 +155,13 @@
 //
 //
 //     private static _deleteById(id: number): void {
-//we
+//
 //         const users = this._getAll();
-//ew
+//
 //         const index = users.findIndex(user => user.id === id);
 //
 //         users.splice(index, 1);
-//   we
+//
 //         this._setToStorage(users);
 //     }
 // }
