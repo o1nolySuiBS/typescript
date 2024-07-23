@@ -156,7 +156,7 @@
 //
 //     private static _deleteById(id: number): void {
 //
-//         const users = this._getAll();
+//         const users = t his._getAll();
 //
 //         const index = users.findIndex(user => user.id === id);
 //
