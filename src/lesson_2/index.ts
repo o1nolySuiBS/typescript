@@ -181,7 +181,7 @@
 // form.onsubmit = (e: SubmitEvent) => {
 //
 //     e.preventDefault();
-//     const { name: nameInput, age: ageInput } = form as any as IInput;
+//     const {  name: nameInput, age: ageInput  } = form as any as IInput;
 //     UserService.create({ name: nameInput.value, age: +ageInput.value });
 //
 //     form.reset();
