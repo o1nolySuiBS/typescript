@@ -162,7 +162,7 @@
 //
 //         users.splice(index, 1);
 //
-//         this._setToStorage(users);
+//         this._setToStorage( users );
 //     }
 // }
 //
@@ -170,7 +170,7 @@
 // UserService.showHtml();
 //
 //
-// const form = document.forms['userForm'] as HTMLFormElement;
+// const form = document.forms[ 'userForm' ] as HTMLFormElement;
 //
 //
 // interface IInput {
@@ -182,7 +182,7 @@
 //
 //     e.preventDefault();
 //     const {  name: nameInput, age: ageInput  } = form as any as IInput;
-//     UserService.create({ name: nameInput.value, age: +ageInput.value });
+//     UserService.create({  name: nameInput.value, age: +ageInput.value  });
 //
 //     form.reset();
 // };
