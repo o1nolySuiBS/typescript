@@ -147,6 +147,7 @@
 //     }
 //
 //
+//
 //     private static _setToStorage(data: IUser[]): void {
 //         localStorage.setItem(this._userKey, JSON.stringify(data));
 //
